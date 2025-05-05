@@ -1,0 +1,30 @@
+# Calculadora Java con Swing
+
+Esta es una calculadora gráfica desarrollada en Java utilizando **Swing**.
+
+## ✨ Características
+
+- Suma, resta, multiplicación y división
+- Raíz cuadrada
+- Cambio de signo (+/-)
+- Interfaz moderna con:
+  - Fondo turquesa
+  - Botones redondeados
+  - Efecto hover al pasar el mouse
+
+## 🖥️ Captura de pantalla
+
+> (Puedes agregar una imagen aquí usando: `![Calculadora](nombre-de-tu-imagen.png)`)
+
+## 📁 Estructura del proyecto
+
+Proyecto generado con NetBeans. Incluye:
+- `src/` con clases Java (`Calc.java`, `BotonRedondo.java`)
+- `form/` para diseño visual
+- Archivos de configuración `nbproject/`
+
+## 🚀 Cómo ejecutar
+
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/prueba1.git
